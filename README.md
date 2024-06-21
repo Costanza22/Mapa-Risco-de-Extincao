@@ -1,7 +1,8 @@
 # Mapa Interativo de Animais em Risco de Extinção
 
 Este projeto consiste em um mapa interativo desenvolvido em Python usando a biblioteca Folium. O mapa exibe marcadores para diferentes animais em risco de extinção, com informações sobre cada animal, incluindo seu status de conservação, uma imagem ilustrativa e uma descrição.
-![image](https://github.com/Costanza22/Mapa-Risco-de-Extincao/assets/81304267/aac4ae4a-5884-4dd3-9776-f78f4c4b8469)
+![image](https://github.com/Costanza22/Mapa-Risco-de-Extincao/assets/81304267/78cfbb69-eda5-431f-af9e-98869559c1fb)
+
 
 
 ## Requisitos
